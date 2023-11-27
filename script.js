@@ -27,7 +27,6 @@ var tl = gsap.timeline({
     scroller: ".main",
     start: "top 27%",
     end: "top 0",
-    markers: "false",
     scrub:3
   }
 })
